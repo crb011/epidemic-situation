@@ -1,0 +1,168 @@
+{
+    "mapLastUpdatedTime": "2020.09.07 16:06",
+    "subList": [
+        {
+            "area": "安省",
+            "confirmed": "43161",
+            "cured": "38958",
+            "died": "2813",
+            "nowConfirmed": "1390",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "BC省",
+            "confirmed": "6162",
+            "cured": "4706",
+            "died": "211",
+            "nowConfirmed": "1245",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "魁省",
+            "confirmed": "63713",
+            "cured": "55960",
+            "died": "5770",
+            "nowConfirmed": "1983",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "萨省",
+            "confirmed": "1662",
+            "cured": "1580",
+            "died": "24",
+            "nowConfirmed": "58",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "阿省",
+            "confirmed": "14474",
+            "cured": "12799",
+            "died": "242",
+            "nowConfirmed": "1433",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "曼省",
+            "confirmed": "1338",
+            "cured": "910",
+            "died": "16",
+            "nowConfirmed": "412",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "其他",
+            "confirmed": "13",
+            "cured": "13",
+            "died": "",
+            "nowConfirmed": "0",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "新省",
+            "confirmed": "192",
+            "cured": "187",
+            "died": "2",
+            "nowConfirmed": "3",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "P.E.I.",
+            "confirmed": "51",
+            "cured": "44",
+            "died": "",
+            "nowConfirmed": "7",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "纽省",
+            "confirmed": "270",
+            "cured": "265",
+            "died": "3",
+            "nowConfirmed": "2",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "诺省",
+            "confirmed": "1086",
+            "cured": "1017",
+            "died": "65",
+            "nowConfirmed": "4",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "NT",
+            "confirmed": "5",
+            "cured": "5",
+            "died": "",
+            "nowConfirmed": "0",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "育空",
+            "confirmed": "15",
+            "cured": "15",
+            "died": "",
+            "nowConfirmed": "0",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        },
+        {
+            "area": "NU",
+            "confirmed": "",
+            "cured": "",
+            "died": "",
+            "nowConfirmed": "0",
+            "confirmedRelative": 0,
+            "nowConfirmedRelative": 0,
+            "curedRelative": 0,
+            "diedRelative": 0
+        }
+    ],
+    "area": "加拿大",
+    "confirmed": "132142",
+    "nowConfirmed": "6537",
+    "cured": "116459",
+    "died": "9146",
+    "confirmedRelative": 0,
+    "nowConfirmedRelative": 0,
+    "curedRelative": 0,
+    "diedRelative": 0
+}

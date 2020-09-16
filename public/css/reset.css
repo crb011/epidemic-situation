@@ -1,0 +1,76 @@
+@charset "utf-8";
+/*
+*author:罗永超-KOUOK;
+*ver:1.2;
+*createTime：2018-10-29 
+*updateTime:2018-10-29;
+ */
+html{ font-size:100%;height: 100%; }
+body{
+    background: #fff;
+    /*默认的手机端字体：Helvetica，加微软雅黑是为了在PC上也能模拟类似于手机上的字体效果*/
+    font-family: Helvetica,"微软雅黑",-apple-system,sans-serif;
+    line-height: 1.5;
+	font-size: 0.15rem;
+    /*禁止文字自动被浏览器缩放 */
+    text-size-adjust: 100%!important;
+    /*禁止手机端出现横向滚动条*/
+    overflow-x: hidden;}
+a, abbr, address, article, aside, audio, b, blockquote, body, caption, cite, code, dd, del, dfn, dialog, div, dl, dt, em, fieldset, figure, footer, form, h1, h2, h3, h4, h5, h6, header, hgroup, hr, html, i, iframe, img, ins, kbd, label, legend, li, mark, menu, nav, object, ol, p, pre, q, samp, section, small, span, strong, sub, sup, tfoot, th, thead, time, tr, ul, var, video{border: 0;
+    margin: 0;
+    outline: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /*清除点击阴影*/
+    -webkit-tap-highlight-color: rgba(255,255,255,0);
+    /*让字体更顺滑,无锯齿*/
+    -webkit-font-smoothing: antialiased;
+}
+ol,ul,li{list-style:none;}
+b,i,u{font-style:normal;font-weight:normal;text-decoration:none;}
+table{border-collapse:collapse;}
+fieldset,img{border:none;outline:none;}
+input,button,select,textarea{font-family:Helvetica; border:none;outline:none; 
+    /*消除按钮默认的圆角外观*/
+    -webkit-appearance:none;
+    -webkit-tap-highlight-color:transparent;}
+a{text-decoration:none; outline:none;}
+
+/*公共样式*/
+
+/*清除浮动*/
+.clearfix:after{content:"\0020"; height:0; display:block; clear:both; overflow:hidden}
+/*文本省略号*/
+.cutFont {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+
+/*位置与浮动*/
+.fl   {float:left;}
+.fr   {float:right;}
+.posir{position:relative;}
+.tl   {text-align:left;}
+.tc   {text-align:center;}
+.tr   {text-align:right;}
+.txj  {text-align:justify;}
+
+/*文字 文字对齐方式*/
+.tc{text-align:center}
+.tl{text-align:left} 
+.tr{text-align:right}
+.fb{font-weight:bold}
+.cutFont{white-space:nowrap;text-overflow:ellipsis;overflow:hidden}
+/*颜色，背景色等，根据网站的主色、辅色来设置、调整*/
+.blue   { color:#06c}
+.brown  { color:#666}
+.gray   { color:#999}
+.green  { color:#2d9b01}
+.orange { color:#f60}
+.red    { color:#f23838}
+.white  { color:#fff}
+.bgRed { background-color: #ef3239; }
+.bgGray { background-color: #f8f8f8; }
+/**/
